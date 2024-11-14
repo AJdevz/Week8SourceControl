@@ -155,9 +155,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackRange: 1
-  attackDamage: 25
+  attackDamage: 10
   attackInterval: 1
-  movementSpeed: 20
+  movementSpeed: 10
 --- !u!136 &473050190
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -480,7 +480,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.1, y: 0.29, z: 4.86}
-  m_LocalScale: {x: 1.9369, y: 1.9369, z: 1.9369}
+  m_LocalScale: {x: 4.419231, y: 4.419231, z: 4.419231}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1063,8 +1063,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1914508825}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.26757622, y: 0.6494062, z: -0.2626166, w: -0.66159433}
+  m_LocalPosition: {x: 13.992011, y: 12.892663, z: 4.611611}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
